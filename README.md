@@ -4,8 +4,8 @@
 <strong>📫 How to reach me </strong>
    
    1. [About heichling.xyz](https://heichling.xyz)
-   2. [Blog maxperience.blog](https://maxperience.blog/)
+   2. [Blog bytevagabond.com](https://www.bytevagabond.com/)
    3. [gitlab](https://gitlab.com/maxcodefaster)
-   4. [linkedin](https://www.linkedin.com/in/maxperience/)
-   5. [twitter @maxperienceblog](https://twitter.com/maxperienceblog)
+   4. [linkedin](https://www.linkedin.com/in/bytevagabond/)
+   5. [twitter @bytevagabond](https://twitter.com/bytevagabond)
    
